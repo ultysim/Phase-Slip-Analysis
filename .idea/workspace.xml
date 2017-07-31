@@ -1,0 +1,872 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e2362f40-07bd-4d75-9fd3-af92537b623b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GradDesc.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2-10-2015/73 no prune dv4 w5 s0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2-10-2015/73 no prune dv4 w5 s05.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2-10-2015/73 no prune dv4 w5 s1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2-10-2015/73 no prune dv4 w5 s2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2-10-2015/73 soft prune dv4 w5 s2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2-10-2015/Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/619/2 with preprune 87.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/619/2p-87 zoom.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/619/Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/73/70apdv4step5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/73/70apdv4step5handfitgreen.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/73/72spdv5step20.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/73/72spdv5w05 step19.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/73/72spdv5w05 step28.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/73/72spdv5w05 step96.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/73/73spdv5step70.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/73/74apdv4step4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/73/74spdv5step12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/73/76apdv4step62.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/73/76spdv5step111.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/73/77spdv5step61.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/73/Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/73/dv7 0 sigma.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/73/dv7 1 sigma all data.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/73/dv7 1 sigma.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/73/np dv4 w10 th20.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/73/sp dv4 w05 th20.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/73/sp dv5 w05 th25.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/73/sp dv5 w10 th20.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/73/spdv7sigma1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/73/spdv7sigma2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/73spdv5w05/70 full.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/73spdv5w05/70 mean qual.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/73spdv5w05/70 mean.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/73spdv5w05/70 no mean.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/73spdv5w05/71 mean.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/73spdv5w05/71 no mean.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/73spdv5w05/72 mean.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/73spdv5w05/72 no mean.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/73spdv5w05/73 mean.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/73spdv5w05/73 no mean.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/73spdv5w05/74 no mean.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/73spdv5w05/75 mean.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/73spdv5w05/76 mean.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/73spdv5w05/77 mean.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/73spdv5w05/Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/73spdv5w05/full mean qual.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/73spdv5w05/full no mean.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Best Bit/70and77lowpassw03c02.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Best Bit/Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Best Bit/alldatatightw03c02.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Best Bit/fullw015c02.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Best Bit/fullw025c02.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Best Bit/fullw02c02.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Best Bit/fullw03c02.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Best Bit/fullw03c02bins3x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Best Bit/fullw03c03.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Best Bit/fullw03c04.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Best Bit/rd70rd7tight.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Best Bit/tightw025c03.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Best Bit/tightw02c02.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Best Bit/tightw02c03.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Best Bit/tightw03c02.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Complete Hist 73/All Files Agr.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Complete Hist 73/All Files Full.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Complete Hist 73/All Files Soft.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Complete Hist 73/File 0 Agr.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Complete Hist 73/File 0 Full.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Complete Hist 73/File 0 Soft.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Complete Hist 73/File 1 Agr.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Complete Hist 73/File 1 Full.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Complete Hist 73/File 1 Soft.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Complete Hist 73/File 2 Agr.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Complete Hist 73/File 2 Full.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Complete Hist 73/File 2 Soft.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Complete Hist 73/File 3 Agr.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Complete Hist 73/File 3 Full.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Complete Hist 73/File 3 Soft.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Complete Hist 73/File 4 Agr.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Complete Hist 73/File 4 Full.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Complete Hist 73/File 4 Soft.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Complete Hist 73/File 5 Agr.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Complete Hist 73/File 5 Full.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Complete Hist 73/File 5 Soft.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Complete Hist 73/File 6 Agr.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Complete Hist 73/File 6 Full.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Complete Hist 73/File 6 Soft.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Complete Hist 73/File 7 Agr.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Complete Hist 73/File 7 Full.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Complete Hist 73/File 7 Soft.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Complete Hist 73/Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Previous Plots/123 no edge 2.0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Previous Plots/1232014hist.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Previous Plots/123bin05.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Previous Plots/123new.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Previous Plots/123noedge.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Previous Plots/125 slip least sq.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Previous Plots/20 weighted.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Previous Plots/2010 2.0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Previous Plots/2010new.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Previous Plots/2011 no noise.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Previous Plots/201140to30.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Previous Plots/201140to30prune.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Previous Plots/201140to30prune036.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Previous Plots/201140to30smallbin.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Previous Plots/2011hist10to22.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Previous Plots/2011hist40to30.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Previous Plots/22 dphi 100theta.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Previous Plots/22 dphi nonoise dv4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Previous Plots/22 dphi nonoise.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Previous Plots/22 dphi raw.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Previous Plots/22 dphi.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Previous Plots/27 -20.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Previous Plots/27 -34.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Previous Plots/27 10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Previous Plots/27 5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Previous Plots/27 5width.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Previous Plots/27 noweight.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Previous Plots/27 weight 2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Previous Plots/27 weighted.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Previous Plots/28 - 7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Previous Plots/28 confused.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Previous Plots/28.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Previous Plots/2std73.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Previous Plots/61292014hist no ends.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Previous Plots/6192014hist.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Previous Plots/619bin05noedge.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Previous Plots/619dv5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Previous Plots/619dv5fix.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Previous Plots/619edgeless.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Previous Plots/619new.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Previous Plots/619no50.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Previous Plots/73bestdv7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Previous Plots/73dv7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Previous Plots/73out7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Previous Plots/CloseRaw73.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Previous Plots/Raw73.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Previous Plots/Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Previous Plots/first run.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Previous Plots/no slope subtraction.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Previous Plots/rd20aslip.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Previous Plots/spike removal.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Previous Plots/test zoom.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Previous Plots/thresh27.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Previous Plots/thresh30.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Previous Plots/width1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Previous Plots/width2thr25.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/flat slips/0 bin at 03/2 amazing fit.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/flat slips/0 bin at 03/Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/flat slips/0 bin at 03/flat c01.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/flat slips/0 bin at 03/flat c02.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/flat slips/0 bin at 03/flat c03.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/flat slips/0 bin at 03/flat c04.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/flat slips/0 bin at 03/no flat c02.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/flat slips/0 bin at 03/no flat c04.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/flat slips/0 bin at 03/no flat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/flat slips/0and7 c02 super tight.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/flat slips/7 bin at 03/Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/flat slips/7 bin at 03/best 0 super tight c01.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/flat slips/7 bin at 03/best super tight c01.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/flat slips/7 bin at 03/best super tight c02.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/flat slips/7 bin at 03/best super tight c03.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/flat slips/7 bin at 03/best super tight c04.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/flat slips/7 bin at 03/best super tight c06.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/flat slips/7 bin at 03/best tight c01.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/flat slips/7 bin at 03/best tight c02.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/flat slips/7 bin at 03/best tight c03.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/flat slips/7 bin at 03/best tight c04.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/flat slips/7 bin at 03/best tight c05.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/flat slips/7 bin at 03/super tight c01.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/flat slips/7 bin at 03/super tight c02.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/flat slips/7 bin at 03/super tight c03.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/flat slips/7 bin at 03/super tight c04.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/flat slips/7 bin at 03/tight c01.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/flat slips/7 bin at 03/tight c02.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/flat slips/7 bin at 03/tight c03.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/flat slips/7 bin at 03/tight c04.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/flat slips/LPtightc04.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/flat slips/LPtightc07.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/flat slips/LPtightnomin.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/flat slips/Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/flat slips/supertight c02.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/flat slips/supertight c03.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/flat slips/supertight c04.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/flat slips/tightc02.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/flat slips/tightc04.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/matlab slips/70npdv4w05.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/matlab slips/Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/piby2/Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/piby2/rd2 snip.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/piby2/rd2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/piby2/rd4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/piby2/rd6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/playing with slipwidth/20 percent s 03 w 02.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/playing with slipwidth/20 percent s 03 w 03.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/playing with slipwidth/20 percent s 03 w01.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/playing with slipwidth/20 percent s 04 w 05.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/playing with slipwidth/Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/playing with slipwidth/best bunch/Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/playing with slipwidth/best bunch/rd9++.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/playing with slipwidth/bestfit within 20 percent.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/playing with slipwidth/both.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/playing with slipwidth/full space 02 width 2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/playing with slipwidth/full space 04 width 8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/playing with slipwidth/full space 07 width 10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/playing with slipwidth/full space 07 width 12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/playing with slipwidth/full space 07 width 6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/playing with slipwidth/full width 4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/playing with slipwidth/full width 5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/playing with slipwidth/hist bin 02.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/playing with slipwidth/hist bin 05.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/playing with slipwidth/only 017 s3w3.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2010bf.npy" afterPath="$PROJECT_DIR$/2010bf.npy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2010histbest.npy" afterPath="$PROJECT_DIR$/2010histbest.npy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/619histbest.npy" afterPath="$PROJECT_DIR$/619histbest.npy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Thumbs.db" afterPath="$PROJECT_DIR$/Thumbs.db" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/better tele count/0/Thumbs.db" afterPath="$PROJECT_DIR$/better tele count/0/Thumbs.db" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/better tele count/1/Thumbs.db" afterPath="$PROJECT_DIR$/better tele count/1/Thumbs.db" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/better tele count/2/Thumbs.db" afterPath="$PROJECT_DIR$/better tele count/2/Thumbs.db" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/better tele count/73/Thumbs.db" afterPath="$PROJECT_DIR$/better tele count/73/Thumbs.db" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/better tele count/ColorMaps/Thumbs.db" afterPath="$PROJECT_DIR$/better tele count/ColorMaps/Thumbs.db" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/better tele count/Figures/Thumbs.db" afterPath="$PROJECT_DIR$/better tele count/Figures/Thumbs.db" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/better tele count/Figures/playing with hist/Thumbs.db" afterPath="$PROJECT_DIR$/better tele count/Figures/playing with hist/Thumbs.db" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fakedata/Thumbs.db" afterPath="$PROJECT_DIR$/fakedata/Thumbs.db" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/onFit tele count/Thumbs.db" afterPath="$PROJECT_DIR$/onFit tele count/Thumbs.db" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CompleteHist.py" afterPath="$PROJECT_DIR$/CompleteHist.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/filenames" afterPath="$PROJECT_DIR$/filenames" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prunenames" afterPath="$PROJECT_DIR$/prunenames" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resultsnames" afterPath="$PROJECT_DIR$/resultsnames" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resultsnames 52cp" afterPath="$PROJECT_DIR$/resultsnames 52cp" />
+    </list>
+    <ignored path="Phase Slip Analysis.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Phase Slip Analysis" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="utils.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../School/Machine Learning/hw2/utils.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="506">
+              <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CompleteHist.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CompleteHist.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5227">
+              <caret line="1009" column="4" lean-forward="false" selection-start-line="1009" selection-start-column="4" selection-end-line="1009" selection-end-column="52" />
+              <folding>
+                <element signature="e#1#54#0" expanded="true" />
+                <marker date="1493241995665" expanded="true" signature="33453:34901" ph="..." />
+                <marker date="1493241995665" expanded="true" signature="35468:35917" ph="..." />
+                <marker date="1493241995665" expanded="true" signature="35468:35891" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="edf.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../School/Deep Learning/HW3/edf.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="660">
+              <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="edf.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../School/Deep Learning/HW2/edf.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="946">
+              <caret line="43" column="27" lean-forward="false" selection-start-line="43" selection-start-column="27" selection-end-line="43" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>interp</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Better Analysis.ipynb" />
+        <option value="$PROJECT_DIR$/GradDesc.py" />
+        <option value="$PROJECT_DIR$/../../School/Deep Learning/HW2/edf.py" />
+        <option value="$PROJECT_DIR$/CompleteHist.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Phase Slip Analysis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Phase Slip Analysis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Phase Slip Analysis" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Phase Slip Analysis" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Phase Slip Analysis" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Phase Slip Analysis" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="Phase Slip Analysis" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Phase Slip Analysis" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Phase Slip Analysis" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Phase Slip Analysis" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Phase Slip Analysis" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Phase Slip Analysis" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2362f40-07bd-4d75-9fd3-af92537b623b" name="Default" comment="" />
+      <created>1477329102508</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1477329102508</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13104188" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48121086" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" x="667" y="59" width="585" height="911" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../../School/Machine Learning/hw2/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CompleteHist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1#54#0" expanded="true" />
+            <marker date="1493241995665" expanded="true" signature="33453:34901" ph="..." />
+            <marker date="1493241995665" expanded="true" signature="35468:35917" ph="..." />
+            <marker date="1493241995665" expanded="true" signature="35468:35891" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../School/Deep Learning/HW3/edf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../School/Deep Learning/HW2/edf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="946">
+          <caret line="43" column="27" lean-forward="false" selection-start-line="43" selection-start-column="27" selection-end-line="43" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../School/Machine Learning/hw2/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CompleteHist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19646">
+          <caret line="893" column="10" lean-forward="false" selection-start-line="893" selection-start-column="4" selection-end-line="893" selection-end-column="10" />
+          <folding>
+            <element signature="e#1#54#0" expanded="true" />
+            <marker date="1493241995665" expanded="true" signature="33453:34901" ph="..." />
+            <marker date="1493241995665" expanded="true" signature="35468:35917" ph="..." />
+            <marker date="1493241995665" expanded="true" signature="35468:35891" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../School/Deep Learning/HW3/edf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../School/Deep Learning/HW2/edf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="946">
+          <caret line="43" column="27" lean-forward="false" selection-start-line="43" selection-start-column="27" selection-end-line="43" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Better Analysis.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="-1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../School/Machine Learning/hw2/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CompleteHist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="21" lean-forward="false" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+          <folding>
+            <element signature="e#1#54#0" expanded="true" />
+            <marker date="1493241995665" expanded="true" signature="33453:34901" ph="..." />
+            <marker date="1493241995665" expanded="true" signature="35468:35917" ph="..." />
+            <marker date="1493241995665" expanded="true" signature="35468:35891" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GradDesc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2970">
+          <caret line="137" column="57" lean-forward="false" selection-start-line="137" selection-start-column="57" selection-end-line="137" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Better Analysis.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="-1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CompleteHist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19624">
+          <caret line="892" column="0" lean-forward="false" selection-start-line="892" selection-start-column="0" selection-end-line="909" selection-end-column="20" />
+          <folding>
+            <element signature="e#1#54#0" expanded="true" />
+            <marker date="1493241995665" expanded="true" signature="33453:34901" ph="..." />
+            <marker date="1493241995665" expanded="true" signature="35468:35917" ph="..." />
+            <marker date="1493241995665" expanded="true" signature="35468:35891" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GradDesc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Better Analysis.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="-1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CompleteHist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1#54#0" expanded="true" />
+            <marker date="1493241995665" expanded="true" signature="33453:34901" ph="..." />
+            <marker date="1493241995665" expanded="true" signature="35468:35917" ph="..." />
+            <marker date="1493241995665" expanded="true" signature="35468:35891" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GradDesc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2970">
+          <caret line="137" column="57" lean-forward="false" selection-start-line="137" selection-start-column="57" selection-end-line="137" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../School/Machine Learning/hw2/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Better Analysis.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../School/Deep Learning/HW2/edf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="946">
+          <caret line="43" column="27" lean-forward="false" selection-start-line="43" selection-start-column="27" selection-end-line="43" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../School/Deep Learning/HW3/edf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CompleteHist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5227">
+          <caret line="1009" column="4" lean-forward="false" selection-start-line="1009" selection-start-column="4" selection-end-line="1009" selection-end-column="52" />
+          <folding>
+            <element signature="e#1#54#0" expanded="true" />
+            <marker date="1493241995665" expanded="true" signature="33453:34901" ph="..." />
+            <marker date="1493241995665" expanded="true" signature="35468:35917" ph="..." />
+            <marker date="1493241995665" expanded="true" signature="35468:35891" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
